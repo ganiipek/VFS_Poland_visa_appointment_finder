@@ -1,2 +1,6 @@
 mail:
     vsf1_poland@proton.me - Aliveli123.! 
+    vfs2_poland@proton.me - Aliveli123.!
+
+vfs:
+    Aliveli123!
