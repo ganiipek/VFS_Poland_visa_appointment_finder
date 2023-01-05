@@ -245,7 +245,9 @@ class _VfsClient:
                 first_name = self._config_reader.read_prop("USER", "user_first_name")
                 last_name = self._config_reader.read_prop("USER", "user_last_name")
                 server_host = self._config_reader.read_prop("DEFAULT", "server_host")
-                message = "[{}] Appointment slots available. Name: {}, Last Name: {}, Attempt: {}".format(server_host, first_name, last_name, attempt)
+                bot_name = self._config_reader.read_prop("DEFAULT", "bot_name")
+
+                message = "[{} - {}] Appointment slots available. Name: {}, Last Name: {}, Attempt: {}".format(server_host, bot_name, first_name, last_name, attempt)
 
                 if send_telegram_message(message):
                     logging.info(message)
