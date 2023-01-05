@@ -24,7 +24,7 @@ if __name__ == "__main__":
     while True:
         try:
             logging.info("Running VFS Appointment Bot: Attempt#{}".format(count))
-            _vfs_client.check_slot(attempt=count):
+            _vfs_client.check_slot(attempt=count)
             logging.debug("Sleeping for {} seconds".format(_interval))
             countdown(int(_interval))
         except Exception as e:
