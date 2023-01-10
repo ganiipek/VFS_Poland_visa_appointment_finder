@@ -1,0 +1,245 @@
+[2023-01-10 11:58:41,514] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 11:58:41,515] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 11:58:41,516] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 11:58:41,516] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 11:58:41,516] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 11:58:57,897] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 11:58:57,900] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 11:58:57,900] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 11:58:57,900] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 11:58:57,900] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 11:59:14,284] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 11:59:14,284] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 11:59:14,285] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 11:59:14,286] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 11:59:14,286] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 11:59:30,680] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 11:59:30,681] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 11:59:30,681] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 11:59:30,682] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 11:59:30,682] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 11:59:47,018] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 11:59:47,019] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 11:59:47,019] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 11:59:47,019] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 11:59:47,019] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:00:03,399] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:00:03,399] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:00:03,399] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:00:03,400] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:00:03,400] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:00:19,773] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:00:19,774] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:00:19,774] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:00:19,774] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:00:19,775] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:00:36,132] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:00:36,133] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:00:36,133] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:00:36,134] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:00:36,134] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:00:52,492] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:00:52,493] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:00:52,493] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:00:52,494] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:00:52,494] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:01:08,814] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:01:08,814] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:01:08,815] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:01:08,815] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:01:08,815] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:01:25,140] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:01:25,140] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:01:25,140] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:01:25,140] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:01:25,140] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:01:41,484] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:01:41,484] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:01:41,485] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:01:41,485] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:01:41,486] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:01:57,888] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:01:57,889] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:01:57,889] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:01:57,890] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:01:57,890] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:02:14,272] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:02:14,273] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:02:14,273] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:02:14,274] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:02:14,274] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:02:30,643] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:02:30,643] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:02:30,643] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:02:30,644] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:02:30,644] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:02:47,013] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:02:47,014] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:02:47,014] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:02:47,014] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:02:47,016] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:03:03,376] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:03:03,377] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:03:03,378] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:03:03,379] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:03:03,380] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:03:19,742] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:03:19,742] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:03:19,742] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:03:19,742] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:03:19,742] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:03:36,133] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:03:36,133] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:03:36,134] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:03:36,134] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:03:36,136] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:03:52,506] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:03:52,506] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:03:52,506] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:03:52,507] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:03:52,508] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:04:08,885] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:04:08,886] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:04:08,886] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:04:08,887] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:04:08,888] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:04:25,241] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:04:25,241] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:04:25,241] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:04:25,242] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:04:25,243] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:04:41,616] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:04:41,616] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:04:41,616] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:04:41,616] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:04:41,617] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:04:58,005] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:04:58,005] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:04:58,006] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:04:58,006] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:04:58,007] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:05:14,401] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:05:14,401] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:05:14,401] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:05:14,402] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:05:14,403] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:05:30,772] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:05:30,772] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:05:30,772] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:05:30,774] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:05:30,774] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:05:47,153] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:05:47,153] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:05:47,153] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:05:47,154] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:05:47,154] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:06:03,552] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:06:03,553] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:06:03,554] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:06:03,554] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:06:03,555] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:06:19,933] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:06:19,934] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:06:19,935] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:06:19,936] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:06:19,937] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:06:36,321] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:06:36,321] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:06:36,321] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:06:36,322] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:06:36,322] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:06:52,696] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:06:52,697] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:06:52,697] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:06:52,698] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:06:52,698] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:07:09,057] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:07:09,057] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:07:09,058] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:07:09,058] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:07:09,058] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:07:25,448] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:07:25,449] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:07:25,449] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:07:25,450] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:07:25,451] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:07:41,814] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:07:41,815] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:07:41,815] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:07:41,816] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:07:41,816] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:07:58,188] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:07:58,188] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:07:58,188] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:07:58,188] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:07:58,189] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:08:14,536] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:08:14,536] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:08:14,537] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:08:14,537] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:08:14,538] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:08:30,896] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:08:30,897] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:08:30,897] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:08:30,898] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:08:30,898] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:08:47,278] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:08:47,279] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:08:47,279] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:08:47,280] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:08:47,281] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:09:03,610] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:09:03,611] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:09:03,611] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:09:03,611] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:09:03,611] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:09:19,934] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:09:19,934] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:09:19,935] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:09:19,935] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:09:19,936] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:09:36,320] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:09:36,321] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:09:36,321] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:09:36,322] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:09:36,322] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:09:52,685] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:09:52,685] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:09:52,686] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:09:52,687] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:09:52,687] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:10:09,074] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:10:09,075] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:10:09,075] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:10:09,075] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:10:09,076] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:10:25,466] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:10:25,466] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:10:25,466] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:10:25,467] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:10:25,467] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:10:41,834] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:10:41,835] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:10:41,835] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:10:41,836] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:10:41,837] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:10:58,241] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:10:58,242] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:10:58,242] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:10:58,243] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:10:58,243] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:11:14,576] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:11:14,576] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:11:14,577] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:11:14,577] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:11:14,577] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:11:30,921] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:11:30,921] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:11:30,922] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:11:30,922] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:11:30,922] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
+[2023-01-10 12:11:47,314] DEBUG [_VfsClient.py root _fill_appointment_page (221)]: Unable to fill the appointment page
+[2023-01-10 12:11:47,314] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_category:National Visa
+[2023-01-10 12:11:47,315] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_sub_category:Turkish
+[2023-01-10 12:11:47,315] DEBUG [_ConfigReader.py root read_prop (12)]: user_visa_centre:Poland in Ankara
+[2023-01-10 12:11:47,315] INFO [_VfsClient.py root _fill_appointment_page (204)]: Getting appointment date: Category: National Visa, Sub-Category: Turkish, Visa Centre: Poland in Ankara
